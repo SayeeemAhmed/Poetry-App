@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Poetry App</string>
+
+    <string-array name="poem">
+
+
+        <item>Jaywalk</item>
+        <item>Daywalk</item>
+        <item>Caywalk</item>
+        <item>Aaywalk</item>
+        <item>Traywalk</item>
+        <item>Paywalk</item>
+        <item>Baywalk</item>
+        <item>Kaywalk</item>
+        <item>Laywalk</item>
+        <item>Maywalk</item>
+
+
+    </string-array>
+</resources>
